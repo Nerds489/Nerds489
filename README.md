@@ -1,39 +1,61 @@
-# Hi, I'm Nerds489! 👋
+# Nerds489
 
-Welcome to my GitHub profile! I'm a passionate software developer/Engineer with a keen interest in various technologies and programming languages. Here you'll find a collection of my personal projects, contributions, and experiments.
+**System Automation Engineer | Security Tooling Developer | Infrastructure Specialist**
 
-## 🚀 About Me
-
-- **Name:** Nerds489
-- **Occupation:** Software Developer/Engineer 
-- **Interests:** Coding, Open Source, AI/ML, Cloud Computing, Web Development
-
-## 🔧 Technologies & Tools
-
-- **Languages:** Python, C++, 
-- **Frameworks:** React, Node.js,
-- **Databases:** MySQL, PostgreSQL,
-- **Tools:** Git, Docker, virtul machines, plus extras.
-- **Cloud:** AWS, Azure, Google Cloud, dropbox.
-  
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning techniques
-- DevOps practices and tools
-- Blockchain development
-
-## 📈 GitHub Stats
-
-![Nerds489's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerds489&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
-
-
-## 💬 Let's Connect!
-
-Feel free to reach out to me for collaboration, or just to say hi!
+Building production-ready automation tools, system optimization scripts, and security solutions for enterprise and consumer environments.
 
 ---
 
-Thank you for visiting my profile! Have a great day! 😊
+## What I Build
+
+**System Optimization** — Performance tuning scripts for Linux and Windows that reduce manual configuration from hours to minutes. RAM management, boot optimization, and hardware-specific tuning.
+
+**Security Tooling** — Penetration testing automation, network security frameworks, and vulnerability assessment tools. Enterprise-grade with comprehensive logging and safety features.
+
+**Deployment Automation** — Zero-touch installers, cross-platform setup scripts, and infrastructure automation. Complete error handling, rollback capability, and dry-run modes.
+
+---
+
+## Tech Stack
+
+```
+Languages       PowerShell • Bash • Python
+Systems         Linux (Ubuntu, Debian, Arch, RHEL) • Windows Server/Desktop
+Security        Penetration Testing • Network Analysis • Security Hardening
+Infrastructure  Docker • VM Optimization • Cloud Platforms
+```
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [**NETREAPER**](https://github.com/Nerds489/NETREAPER) | 🔥 Network security & WiFi assault toolkit — 70+ tools unified in one menacing CLI |
+| [**Acer Swift Go 14 AI Toolkit**](https://github.com/Nerds489/acer-swift-go-14-ai-toolkit) | AI-powered optimization suite for Acer Swift Go 14 laptops |
+
+---
+
+## Code Philosophy
+
+Every script I publish follows these standards:
+
+- **Safety First** — Automatic backups, validation checks, rollback capability
+- **Production Ready** — Comprehensive error handling and logging
+- **Well Documented** — SOPs, HOWTOs, and troubleshooting guides included
+- **Hardware Aware** — Intelligent profiling that adapts to detected resources
+
+---
+
+## Current Focus
+
+- Enterprise-grade security testing frameworks
+- Cross-platform system optimization tools
+
+---
+
+## Connect
+
+**Organization:** OffTrackMedia (OTM)
+
+*Open to collaboration on security tooling, automation frameworks, and system optimization projects.*
