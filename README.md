@@ -60,9 +60,7 @@ Every script I publish follows these standards:
 
 *Open to collaboration on security tooling, automation frameworks, and system optimization projects.*
 
-<script src="https://liberapay.com/Nerds489/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/Nerds489/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-buymeacoffee.com/Nerds489
 
-
+<a href="https://www.buymeacoffee.com/nerds489"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nerds489&button_colour=BD5FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
