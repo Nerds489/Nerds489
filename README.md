@@ -52,36 +52,6 @@ WiFi pentesting, network recon, and packet wizardry. Now with 100% more chaos.
 
 Hardware-aware tuning that actually understands what your machine needs.
 
----
-
-## 🧰 Tech Arsenal
-
-```python
-class Nerds489:
-    def __init__(self):
-        self.languages = ["PowerShell", "Bash", "Python"]
-        self.os = {
-            "linux": ["Ubuntu", "Debian", "Arch", "Fedora", "RHEL"],
-            "windows": ["10", "11", "Server"]
-        }
-        self.specialties = [
-            "Making scripts that don't break things (usually)",
-            "Writing documentation people actually read",
-            "Turning 47-step processes into one command"
-        ]
-        self.coffee_addiction = float('inf')
-    
-    def philosophy(self):
-        return """
-        ✅ Safety First — Backups before chaos
-        ✅ Production Ready — Error handling is not optional
-        ✅ Well Documented — Future me will thank present me
-        ✅ Hardware Aware — One size fits none
-        """
-```
-
----
-
 ## 📊 The Numbers
 
 <p align="center">
