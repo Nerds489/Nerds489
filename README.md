@@ -1,63 +1,101 @@
-# Nerds489
+👋 Hey, I'm Nerds489
+System Breaker. Script Slinger. Chaos Engineer (the good kind).
+ ███╗   ██╗███████╗██████╗ ██████╗ ███████╗██╗  ██╗ █████╗  █████╗ 
+ ████╗  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗
+ ██╔██╗ ██║█████╗  ██████╔╝██║  ██║███████╗███████║╚█████╔╝╚██████║
+ ██║╚██╗██║██╔══╝  ██╔══██╗██║  ██║╚════██║╚════██║██╔══██╗ ╚═══██║
+ ██║ ╚████║███████╗██║  ██║██████╔╝███████║     ██║╚█████╔╝ █████╔╝
+ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝     ╚═╝ ╚════╝  ╚════╝
 
-**System Automation Engineer | Security Tooling Developer | Infrastructure Specialist**
+"Why spend 5 minutes doing something manually when you can spend 5 hours automating it?"
+— Me, every single time
 
-Building production-ready automation tools, system optimization scripts, and security solutions for enterprise and consumer environments.
+📍 Perth, Western Australia • 🏢 Owner of @Off-Track-Media
 
----
+🔥 What I Actually Do
+I build production-ready tools that make sysadmins' lives easier and pentesters' jobs more fun.
+💀 Security⚡ Automation🛠️ OptimizationPenetration TestingZero-Touch DeploymentsRAM ManagementNetwork ReconCross-Platform ScriptsBoot OptimizationWiFi Assault ToolsCI/CD PipelinesHardware Tuning
+Translation: I write scripts so you don't have to click buttons like a peasant.
 
-## What I Build
+🚀 Featured Projects
+NETREAPER
 
-**System Optimization** — Performance tuning scripts for Linux and Windows that reduce manual configuration from hours to minutes. RAM management, boot optimization, and hardware-specific tuning.
+70+ network security tools unified under one menacing CLI
 
-**Security Tooling** — Penetration testing automation, network security frameworks, and vulnerability assessment tools. Enterprise-grade with comprehensive logging and safety features.
+███╗   ██╗███████╗████████╗██████╗ ███████╗ █████╗ ██████╗ ███████╗██████╗ 
+████╗  ██║██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗
+██╔██╗ ██║█████╗     ██║   ██████╔╝█████╗  ███████║██████╔╝█████╗  ██████╔╝
+██║╚██╗██║██╔══╝     ██║   ██╔══██╗██╔══╝  ██╔══██║██╔═══╝ ██╔══╝  ██╔══██╗
+██║ ╚████║███████╗   ██║   ██║  ██║███████╗██║  ██║██║     ███████╗██║  ██║
+╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
+WiFi pentesting, network recon, and packet wizardry. Now with 100% more chaos.
+Acer Swift Go 14 AI Toolkit
 
-**Deployment Automation** — Zero-touch installers, cross-platform setup scripts, and infrastructure automation. Complete error handling, rollback capability, and dry-run modes.
+AI-powered optimization that makes your laptop go brrrrr
 
----
+Hardware-aware tuning that actually understands what your machine needs.
 
-## Tech Stack
+🧰 Tech Arsenal
+pythonclass Nerds489:
+    def __init__(self):
+        self.languages = ["PowerShell", "Bash", "Python"]
+        self.os = {
+            "linux": ["Ubuntu", "Debian", "Arch", "Fedora", "RHEL"],
+            "windows": ["10", "11", "Server"]
+        }
+        self.specialties = [
+            "Making scripts that don't break things (usually)",
+            "Writing documentation people actually read",
+            "Turning 47-step processes into one command"
+        ]
+        self.coffee_addiction = float('inf')
+    
+    def philosophy(self):
+        return """
+        ✅ Safety First — Backups before chaos
+        ✅ Production Ready — Error handling is not optional
+        ✅ Well Documented — Future me will thank present me
+        ✅ Hardware Aware — One size fits none
+        """
 
-```
-Languages       PowerShell • Bash • Python
-Systems         Linux (Ubuntu, Debian, Arch, RHEL) • Windows Server/Desktop
-Security        Penetration Testing • Network Analysis • Security Hardening
-Infrastructure  Docker • VM Optimization • Cloud Platforms
-```
+📊 The Numbers
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nerds489&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nerds489&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
+☕ Fuel My Chaos
+Building open-source tools takes time, caffeine, and occasionally sanity. If my scripts have saved you hours of work (or your job), consider throwing some support my way!
+<p align="center">
+  <a href="https://github.com/sponsors/Nerds489">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-💖_Sponsor-ea4aaa?style=for-the-badge&logo=github" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://buymeacoffee.com/nerds489">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-☕_Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://liberapay.com/Nerds489">
+    <img src="https://img.shields.io/badge/Liberapay-🧡_Donate-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" alt="Liberapay" />
+  </a>
+</p>
+<p align="center">
+  <i>Every donation = one less mass-manufactured script in the world</i>
+</p>
 
-## Projects
+📬 Let's Connect
 
-| Project | Description |
-|---------|-------------|
-| [**NETREAPER**](https://github.com/Nerds489/NETREAPER) | 🔥 Network security & WiFi assault toolkit — 70+ tools unified in one menacing CLI |
-| [**Acer Swift Go 14 AI Toolkit**](https://github.com/Nerds489/acer-swift-go-14-ai-toolkit) | AI-powered optimization suite for Acer Swift Go 14 laptops |
+🐛 Found a bug? Open an issue. I promise I won't cry.
+💡 Have an idea? PRs welcome. Especially if it involves making things faster.
+🤝 Want to collab? Always down for security tooling and automation projects.
 
----
 
-## Code Philosophy
-
-Every script I publish follows these standards:
-
-- **Safety First** — Automatic backups, validation checks, rollback capability
-- **Production Ready** — Comprehensive error handling and logging
-- **Well Documented** — SOPs, HOWTOs, and troubleshooting guides included
-- **Hardware Aware** — Intelligent profiling that adapts to detected resources
-
----
-
-## Current Focus
-
-- Enterprise-grade security testing frameworks
-- Cross-platform system optimization tools
-
----
-
-## Connect
-
-**Organization:** OffTrackMedia (OTM)
-
-*Open to collaboration on security tooling, automation frameworks, and system optimization projects.*
-
-<noscript><a href="https://liberapay.com/Nerds489/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nerds489&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+<p align="center">
+  <b>⚡ "Automate everything. Trust nothing. Document obsessively." ⚡</b>
+</p>
+<p align="center">
+  <sub>Nerds489 — was here before OTM, will be here after</sub>
+</p>
