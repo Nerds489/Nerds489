@@ -59,3 +59,10 @@ Every script I publish follows these standards:
 **Organization:** OffTrackMedia (OTM)
 
 *Open to collaboration on security tooling, automation frameworks, and system optimization projects.*
+
+<script src="https://liberapay.com/Nerds489/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/Nerds489/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+buymeacoffee.com/Nerds489
+
+
