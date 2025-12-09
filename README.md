@@ -62,5 +62,4 @@ Every script I publish follows these standards:
 
 <noscript><a href="https://liberapay.com/Nerds489/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-
-<a href="https://www.buymeacoffee.com/nerds489"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nerds489&button_colour=BD5FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
+   <a href="https://www.buymeacoffee.com/nerds489"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nerds489&button_colour=BD5FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
