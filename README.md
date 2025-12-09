@@ -14,7 +14,7 @@
 > *"Why spend 5 minutes doing something manually when you can spend 5 hours automating it?"*  
 > — Me, every single time
 
-📍 **Perth, Western Australia** • 🏢 Owner of [@Off-Track-Media](https://github.com/Off-Track-Media)
+📍 **Perth, Western Australia** • 🏢 Co-Owner of [@Off-Track-Media](https://github.com/Off-Track-Media)
 
 ---
 
