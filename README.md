@@ -61,5 +61,3 @@ Every script I publish follows these standards:
 *Open to collaboration on security tooling, automation frameworks, and system optimization projects.*
 
 <noscript><a href="https://liberapay.com/Nerds489/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nerds489" data-color="#722182" data-emoji=""  data-font="Inter" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script> 
