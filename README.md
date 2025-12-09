@@ -74,7 +74,7 @@ Building open-source tools takes time, caffeine, and occasionally sanity. If my 
 </p>
 
 <p align="center">
-  <i>Every donation = one less mass-manufactured script in the world</i>
+  <i>Every donation = one less day i have to deal with</i>
 </p>
 
 ---
