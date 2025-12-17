@@ -42,7 +42,11 @@ I build **production-ready tools** that make sysadmins' lives easier and pentest
 <p align="center">
   <b>⚡ "Automate everything. Trust nothing. Document obsessively." ⚡</b>
 </p>
-
-<p align="center">
-  <sub>Nerds489 — was here before OTM, will be here after</sub>
-</p>
+```
+ ███╗   ██╗███████╗██████╗ ██████╗ ███████╗██╗  ██╗ █████╗  █████╗ 
+ ████╗  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗
+ ██╔██╗ ██║█████╗  ██████╔╝██║  ██║███████╗███████║╚█████╔╝╚██████║
+ ██║╚██╗██║██╔══╝  ██╔══██╗██║  ██║╚════██║╚════██║██╔══██╗ ╚═══██║
+ ██║ ╚████║███████╗██║  ██║██████╔╝███████║     ██║╚█████╔╝ █████╔╝
+ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝     ╚═╝ ╚════╝  ╚════╝ 
+```
