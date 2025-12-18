@@ -139,14 +139,7 @@ That's HIVEMIND.
 
 **🐛 Bug?** Open an issue **•** **💡 Idea?** Send a PR **•** **🤝 Collab?** Security & automation only
 
-<br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Nerds489-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nerds489)
-[![Sponsor](https://img.shields.io/badge/SPONSOR-ff0040?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Nerds489)
-
-</div>
-
-<br>
 
 <div align="center">
 
