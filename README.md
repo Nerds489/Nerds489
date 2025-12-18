@@ -41,8 +41,8 @@ I build **production-ready tools** that make sysadmins' lives easier and pentest
 
 
 <p align="center">
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Nerds489)
-</p>
+     <[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Nerds489) /> 
+</p> 
  
 <p align="center">
   <b>⚡ "Automate everything. Trust nothing. Document obsessively." ⚡</b>
