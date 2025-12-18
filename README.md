@@ -38,6 +38,8 @@ I build **production-ready tools** that make sysadmins' lives easier and pentest
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nerds489&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Nerds489?style=flat-square&logo=github&label=Sponsors)](https://github.com/sponsors/Nerds489)
  
 <p align="center">
   <b>⚡ "Automate everything. Trust nothing. Document obsessively." ⚡</b>
