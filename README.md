@@ -39,11 +39,12 @@ I build **production-ready tools** that make sysadmins' lives easier and pentest
   <img src="https://komarev.com/ghpvc/?username=Nerds489&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-
 <p align="center">
-     <[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Nerds489) /> 
-</p> 
- 
+    <a href="https://github.com/sponsors/Nerds489">
+        <img src="https://img.shields.io/badge/Sponsor-♥-red?style=for-the-badge&logo=github" alt="Sponsor" />
+    </a>
+</p>
+
 <p align="center">
   <b>⚡ "Automate everything. Trust nothing. Document obsessively." ⚡</b>
 </p>
