@@ -69,7 +69,7 @@ All coordinated. All automated. All talking to each other.
 
 That's HIVEMIND.
 
-`COMING SOON`
+`here`
 
 </div>
 
