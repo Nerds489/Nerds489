@@ -51,27 +51,6 @@
 
 ## 🔒 Working on
 
-<div align="center">
-
-### 🧠 HIVEMIND
-
-**Multi-Agent AI Orchestration System**
-
-*24 Agents • 4 Teams • Unified Intelligence*
-
-<br>
-
-What if AI agents could work together like a real dev team?
-
-Architects designing systems. Pentesters finding holes. DevOps deploying infrastructure. QA breaking everything before users do.
-
-All coordinated. All automated. All talking to each other.
-
-That's HIVEMIND.
-
-`here`
-
-</div>
 
 <br>
 
