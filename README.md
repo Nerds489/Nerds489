@@ -348,16 +348,6 @@ I am actively seeking collaboration opportunities with organizations and individ
 
 ---
 
-## 📈 **CONTRIBUTION VISUALIZATION**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nerds489&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=f97316&point=ff0040&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" />
-
-</div>
-
----
-
 <div align="center">
 
 ### **"Building the infrastructure of tomorrow, one commit at a time"**
