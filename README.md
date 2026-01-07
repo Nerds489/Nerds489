@@ -1,213 +1,272 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,24,15&height=300&section=header&text=NERDS489&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SYSTEM%20BREAKER%20%E2%80%A2%20SCRIPT%20SLINGER%20%E2%80%A2%20CHAOS%20ARCHITECT&descSize=20&descAlignY=55&stroke=a855f7&strokeWidth=2)
+```
+███╗   ██╗███████╗██████╗ ██████╗ ███████╗██╗  ██╗ ██████╗  █████╗ 
+████╗  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝ ██╔══██╗
+██╔██╗ ██║█████╗  ██████╔╝██║  ██║███████╗███████║╚█████╗  ╚██████║
+██║╚██╗██║██╔══╝  ██╔══██╗██║  ██║╚════██║╚════██║ ╚═══██╗  ╚═══██║
+██║ ╚████║███████╗██║  ██║██████╔╝███████║     ██║██████╔╝  █████╔╝
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝     ╚═╝╚═════╝   ╚════╝ 
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=%E2%9A%A1+why+spend+5+minutes+manually...;%E2%9A%A1+when+you+can+spend+5+hours+automating+it%3F;%E2%9A%A1+building+tools+that+build+tools;%E2%9A%A1+chaos+is+just+order+waiting+to+be+automated" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Systems+Architect+%E2%80%A2+Security+Engineer+%E2%80%A2+Automation+Specialist;Building+tools+that+empower+developers+and+secure+systems;Perth%2C+Australia+%F0%9F%8C%8F" alt="Typing SVG" />
 
-<br>
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Nerds489?style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/Nerds489?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Nerds489?style=for-the-badge&color=f97316&labelColor=0d1117&logo=github&label=STARS)](https://github.com/Nerds489?tab=repositories)
-[![Sponsor](https://img.shields.io/badge/SPONSOR_ME-ff0040?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Nerds489)
-![](https://komarev.com/ghpvc/?username=Nerds489&color=a855f7&style=for-the-badge&label=VIEWS)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-`🍃 Cooked to the core but the code still compiles` **•** `🍵 Fueled by tea` **•** `📍 Perth, Australia`
+[![Sponsor](https://img.shields.io/badge/💜_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Nerds489)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-A855F7?style=for-the-badge&logo=About.me&logoColor=white)](https://nerds489fo-o36htdot.manus.space)
+[![Followers](https://img.shields.io/github/followers/Nerds489?style=for-the-badge&color=0EA5E9&labelColor=0d1117&logo=github)](https://github.com/Nerds489?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Nerds489?style=for-the-badge&color=F97316&labelColor=0d1117&logo=github)](https://github.com/Nerds489?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=Nerds489&color=blueviolet&style=for-the-badge)
 
 </div>
-
-I'm a **systems architect** and **automation engineer** specializing in offensive security, developer tooling, and AI orchestration. My philosophy is simple: if it can be automated, it should be automated. I build tools that save time, enhance security, and empower developers to focus on what matters most.
-
-With a background spanning **cybersecurity frameworks**, **multi-platform system management**, and **AI-driven workflows**, I've developed projects that serve thousands of users worldwide. From penetration testing suites to cross-platform setup toolkits, my work bridges the gap between complexity and usability.
-
-When I'm not architecting chaos or slinging scripts, you'll find me exploring cutting-edge tech, contributing to open-source projects, and documenting obsessively so others can learn from my journey.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Nerds489/HIVEMIND">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nerds489&repo=HIVEMIND&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Nerds489/VOIDWAVE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nerds489&repo=VOIDWAVE&hide_border=true&bg_color=0d1117&title_color=ff0040&icon_color=ff0040&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Nerds489/Ultimate-Windows-Setup-Toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nerds489&repo=Ultimate-Windows-Setup-Toolkit&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Nerds489/ultimate-linux-suite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nerds489&repo=ultimate-linux-suite&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br>
-
-### 🤖 **HIVEMIND** — Multi-Agent AI Orchestration System
-
-A sophisticated AI orchestration platform featuring **24 specialized agents** working in concert to handle complex workflows. Built with OAuth authentication, real-time streaming capabilities, and pre-configured workflows for common use cases. HIVEMIND represents the future of collaborative AI systems, where multiple agents coordinate seamlessly to solve problems that would be impossible for a single model.
-
-**Key Features:**
-- 24 specialized AI agents with domain-specific expertise
-- Real-time streaming for instant feedback
-- OAuth authentication for secure access
-- Pre-built workflows for rapid deployment
-- Extensible architecture for custom agent creation
-
-**Tech Stack:** Python, FastAPI, OAuth2, WebSocket
 
 ---
 
-### 💀 **VOIDWAVE** — Offensive Security Framework
+## 📖 **About**
 
-An all-in-one offensive security framework that combines **70+ tools** for network reconnaissance, OSINT, WiFi attacks, credential cracking, exploitation, and traffic analysis. VOIDWAVE evolved from NETREAPER and represents years of refinement in penetration testing methodology. Designed for security professionals, researchers, and ethical hackers who need a comprehensive toolkit at their fingertips.
+I'm a **systems architect** and **security engineer** based in Perth, Australia, specializing in offensive security frameworks, multi-platform automation, and AI-driven orchestration systems. My work focuses on building sophisticated tools that solve real-world problems, from penetration testing suites to cross-platform system management utilities.
 
-**Key Features:**
-- 70+ integrated security tools
-- Network reconnaissance and mapping
-- OSINT (Open Source Intelligence) gathering
-- WiFi attack vectors and analysis
-- Credential cracking capabilities
-- Exploitation frameworks
-- Traffic analysis and packet inspection
+With a deep understanding of **Python**, **Shell scripting**, and **PowerShell**, I create solutions that bridge the gap between complexity and usability. My projects serve developers, security professionals, and system administrators worldwide, providing them with the tools they need to work more efficiently and securely.
 
-**Tech Stack:** Shell, Python, Bash
+**Philosophy:** *Automate everything. Trust nothing. Document obsessively.*
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🤖 [HIVEMIND](https://github.com/Nerds489/HIVEMIND) — Multi-Agent AI Orchestration System
+
+HIVEMIND is a sophisticated AI orchestration platform featuring **24 specialized agents** that work collaboratively to handle complex workflows. The system is built with OAuth2 authentication, real-time streaming capabilities, and pre-configured workflows designed for rapid deployment. HIVEMIND represents the next generation of collaborative AI systems, where multiple agents coordinate seamlessly to solve problems that would be impossible for a single model to tackle alone.
+
+**Architecture Highlights:**
+- **24 Specialized Agents** — Each agent has domain-specific expertise, from data analysis to creative writing
+- **Real-Time Streaming** — WebSocket-based communication for instant feedback and progress tracking
+- **OAuth2 Authentication** — Enterprise-grade security for multi-user environments
+- **Pre-Built Workflows** — Common use cases configured out of the box for immediate productivity
+- **Extensible Design** — Modular architecture allows for custom agent creation and integration
+
+**Tech Stack:** `Python` `FastAPI` `OAuth2` `WebSocket` `Docker`
+
+**Status:** 🟢 Active Development
+
+---
+
+### 💀 [VOIDWAVE](https://github.com/Nerds489/VOIDWAVE) — Offensive Security Framework
+
+VOIDWAVE is an all-in-one offensive security framework that combines **70+ tools** for network reconnaissance, OSINT gathering, WiFi attacks, credential cracking, exploitation, and traffic analysis. Evolved from NETREAPER, VOIDWAVE represents years of refinement in penetration testing methodology and is designed for security professionals, researchers, and ethical hackers who need a comprehensive toolkit at their fingertips.
+
+**Capabilities:**
+- **Network Reconnaissance** — Advanced scanning and mapping techniques for network discovery
+- **OSINT (Open Source Intelligence)** — Automated information gathering from public sources
+- **WiFi Attack Vectors** — WPA/WPA2 cracking, deauthentication, and rogue AP deployment
+- **Credential Cracking** — Multi-threaded password cracking with support for various hash types
+- **Exploitation Frameworks** — Integration with Metasploit and custom exploit modules
+- **Traffic Analysis** — Deep packet inspection and protocol analysis tools
+
+**Tech Stack:** `Shell` `Python` `Bash` `Metasploit` `Aircrack-ng`
 
 **Stats:** ⭐ 10 stars | 🍴 2 forks
 
+**Status:** 🟢 Active Maintenance
+
 ---
 
-### 🪟 **Ultimate Windows Setup Toolkit** — Windows Automation Suite
+### 🪟 [Ultimate Windows Setup Toolkit](https://github.com/Nerds489/Ultimate-Windows-Setup-Toolkit) — Windows Automation Suite
 
-A comprehensive PowerShell toolkit that transforms Windows setup from a tedious manual process into a streamlined, automated experience. With **200+ applications** available for one-click installation, system profiling, debloating utilities, and safety features, this toolkit is essential for anyone setting up a new Windows machine or optimizing an existing one.
+The Ultimate Windows Setup Toolkit transforms Windows setup from a tedious manual process into a streamlined, automated experience. With **200+ applications** available for one-click installation, system profiling capabilities, debloating utilities, and comprehensive safety features, this toolkit is essential for anyone setting up a new Windows machine or optimizing an existing one.
 
-**Key Features:**
-- 200+ curated applications with one-click installation
-- System profiler for hardware and software analysis
-- Windows debloating and optimization
-- Privacy-focused configuration options
-- Safety features to prevent system damage
-- Automated driver updates
-- Registry optimization
+**Features:**
+- **200+ Curated Applications** — One-click installation for development tools, productivity apps, and utilities
+- **System Profiler** — Comprehensive hardware and software analysis with detailed reporting
+- **Windows Debloating** — Remove bloatware, telemetry, and unnecessary services
+- **Privacy Configuration** — Disable tracking and enhance privacy settings
+- **Safety Features** — Rollback capabilities and system restore point creation
+- **Automated Driver Updates** — Keep your system up to date with the latest drivers
+- **Registry Optimization** — Safe registry tweaks for improved performance
 
-**Tech Stack:** PowerShell, Windows API
+**Tech Stack:** `PowerShell` `Windows API` `.NET`
 
 **Stats:** ⭐ 2 stars
 
+**Status:** 🟢 Active Maintenance
+
 ---
 
-### 🐧 **Ultimate Linux Suite** — Multi-Distribution Linux Management
+### 🐧 [Ultimate Linux Suite](https://github.com/Nerds489/ultimate-linux-suite) — Multi-Distribution Linux Management
 
-A powerful multi-distribution Linux system management toolkit with queue-based operations. Supports **60+ curated applications**, system optimization profiles, driver management, service control, firewall configuration, and recovery tools. Works seamlessly across Debian, Ubuntu, Fedora, Arch, openSUSE, Alpine, Void, Kali, and more.
+The Ultimate Linux Suite is a powerful multi-distribution system management toolkit with queue-based operations. Supporting **60+ curated applications**, system optimization profiles, driver management, service control, firewall configuration, and recovery tools, it works seamlessly across Debian, Ubuntu, Fedora, Arch, openSUSE, Alpine, Void, Kali, and more.
 
-**Key Features:**
-- Multi-distribution support (Debian, Ubuntu, Fedora, Arch, openSUSE, Alpine, Void, Kali)
-- Queue-based operation system for batch processing
-- 60+ curated applications
-- System optimization profiles
-- Driver management and installation
-- Service control and monitoring
-- Firewall configuration
-- Recovery and backup tools
+**Capabilities:**
+- **Multi-Distribution Support** — Works across Debian, Ubuntu, Fedora, Arch, openSUSE, Alpine, Void, Kali
+- **Queue-Based Operations** — Batch processing for efficient system management
+- **60+ Curated Applications** — Essential tools for development, security, and productivity
+- **System Optimization Profiles** — Pre-configured settings for different use cases
+- **Driver Management** — Automated driver installation and updates
+- **Service Control** — Easy management of systemd services
+- **Firewall Configuration** — UFW and iptables management with preset rules
+- **Recovery Tools** — System backup, restore, and emergency recovery utilities
 
-**Tech Stack:** Shell, Bash, Python
+**Tech Stack:** `Shell` `Bash` `Python` `Systemd`
 
 **Stats:** ⭐ 1 star
 
-<br>
+**Status:** 🟢 Active Maintenance
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
-
-## 🛠️ Tech Stack & Expertise
+## 🛠️ **Technical Arsenal**
 
 <div align="center">
 
-### **Languages**
+### **Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Frameworks & Libraries**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **DevOps & Tools**
+### **DevOps & Infrastructure**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-### **Operating Systems**
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ### **Security & Networking**
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📊 GitHub Analytics
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nerds489&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=f97316&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nerds489&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff0040&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=f97316&sideNums=c9d1d9&dates=6b7280" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerds489&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nerds489&theme=github_dark&utcOffset=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nerds489&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=f97316&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nerds489&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff0040&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=f97316&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nerds489&bg_color=0d1117&color=a855f7&line=f97316&point=ff0040&area=true&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerds489&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nerds489&theme=radical&utcOffset=8" alt="Productive Time"/>
 
 </div>
 
-<br>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-<br>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nerds489&theme=react-dark&bg_color=0d1117&color=a855f7&line=f97316&point=ff0040&area=true&hide_border=true)
 
-## 🏆 Achievements & Milestones
+</div>
+
+---
+
+## 🎯 **Impact Metrics**
+
+<div align="center">
+
+| Metric | Value | Description |
+|:---:|:---:|:---|
+| 👥 **Community** | 51 Followers | Growing network of developers and security professionals |
+| ⭐ **Recognition** | 15+ Stars | Across multiple repositories |
+| 🍴 **Collaboration** | 2 Forks | Community contributions and adaptations |
+| 📦 **Projects** | 6 Public Repos | Each solving real-world problems |
+| 🔐 **Security Tools** | 70+ Tools | Integrated into VOIDWAVE framework |
+| 🪟 **Windows Apps** | 200+ Apps | Available in Ultimate Windows Setup Toolkit |
+| 🐧 **Linux Apps** | 60+ Apps | Curated for Ultimate Linux Suite |
+| 🤖 **AI Agents** | 24 Agents | Orchestrated in HIVEMIND system |
+
+</div>
+
+---
+
+## 🔥 **Current Focus & Roadmap**
+
+<div align="center">
+
+| Project | Status | Focus Area |
+|:---:|:---:|:---|
+| 🤖 **HIVEMIND** | `🟢 ACTIVE DEV` | Expanding agent capabilities, improving workflow automation |
+| 💀 **VOIDWAVE** | `🟢 MAINTENANCE` | Adding new security tools, updating existing modules |
+| 🪟 **Windows Toolkit** | `🟢 MAINTENANCE` | Updating application library, refining optimization scripts |
+| 🐧 **Linux Suite** | `🟢 MAINTENANCE` | Expanding distribution support, enhancing package management |
+
+</div>
+
+### **Upcoming Milestones**
+
+**Q1 2026:**
+- HIVEMIND: Multi-agent collaboration protocols and advanced workflow templates
+- VOIDWAVE: Advanced exploitation modules and automated vulnerability scanning
+- Cross-platform tool integration for seamless multi-OS workflows
+
+**Q2 2026:**
+- AI-powered security automation with machine learning-based threat detection
+- Enhanced system profiling with predictive performance analytics
+- Community-driven feature development and open-source contributions
+
+---
+
+## 💡 **Philosophy**
+
+<div align="center">
+
+> *"The best code is the code you don't have to write twice."*
+
+</div>
+
+My work is guided by three fundamental principles that shape every project I undertake:
+
+**1. Automate Everything** — Time is our most valuable resource. If a task is repetitive, it deserves automation. By building tools that handle the mundane, we free ourselves to focus on creative problem-solving and innovation.
+
+**2. Trust Nothing** — In security and systems engineering, trust must be earned through verification. Every system should be validated, every input sanitized, and every assumption challenged. Security is not a feature; it's a foundation.
+
+**3. Document Obsessively** — Knowledge shared is knowledge multiplied. Comprehensive documentation ensures that others can learn from, build upon, and improve our work. Good documentation is the difference between a tool and a solution.
+
+---
+
+## 🤝 **Collaboration & Contact**
+
+<div align="center">
+
+I'm always open to collaboration on projects related to **security**, **automation**, and **developer tooling**. Whether you've found a bug, have an innovative idea, or want to contribute to an existing project, I'd love to hear from you.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-A855F7?style=for-the-badge&logo=About.me&logoColor=white)](https://nerds489fo-o36htdot.manus.space)
+[![GitHub](https://img.shields.io/badge/📧_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nerds489)
+[![Sponsor](https://img.shields.io/badge/💜_Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Nerds489)
+
+<br/>
+
+**How to Contribute:**
+- 🐛 **Found a bug?** Open an issue in the relevant repository
+- 💡 **Have an idea?** Submit a pull request with your proposed changes
+- 🤝 **Want to collaborate?** Reach out via GitHub or my portfolio website
+
+</div>
+
+---
+
+## 🏆 **Achievements**
 
 <div align="center">
 
@@ -218,126 +277,26 @@ A powerful multi-distribution Linux system management toolkit with queue-based o
 
 </div>
 
-<br>
+---
 
-### 🎯 **Impact Metrics**
-
-- **51 Followers** — Growing community of developers and security enthusiasts
-- **15+ Stars** — Across multiple repositories
-- **2 Forks** — Community contributions and adaptations
-- **6 Public Repositories** — Each solving real-world problems
-- **70+ Security Tools** — Integrated into VOIDWAVE framework
-- **200+ Windows Apps** — Available in Ultimate Windows Setup Toolkit
-- **60+ Linux Apps** — Curated for Ultimate Linux Suite
-- **24 AI Agents** — Orchestrated in HIVEMIND system
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🔥 Current Focus
+## 📈 **Contribution Activity**
 
 <div align="center">
 
-| Project | Status | Description |
-|:---:|:---:|:---|
-| 🤖 **HIVEMIND** | `ACTIVE DEVELOPMENT` | Expanding agent capabilities and workflow automation |
-| 💀 **VOIDWAVE** | `ACTIVE MAINTENANCE` | Adding new security tools and improving existing modules |
-| 🪟 **Windows Toolkit** | `ACTIVE MAINTENANCE` | Updating application library and optimization scripts |
-| 🐧 **Linux Suite** | `ACTIVE MAINTENANCE` | Expanding distribution support and package management |
+![Snake animation](https://raw.githubusercontent.com/Nerds489/Nerds489/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<br>
-
-### 🎯 **Roadmap**
-
-**Q1 2026:**
-- HIVEMIND: Multi-agent collaboration protocols
-- VOIDWAVE: Advanced exploitation modules
-- Cross-platform tool integration
-
-**Q2 2026:**
-- AI-powered security automation
-- Enhanced system profiling capabilities
-- Community-driven feature development
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💡 Philosophy & Principles
-
-> **"Automation is not about replacing humans; it's about empowering them to focus on what truly matters."**
-
-My work is guided by three core principles:
-
-1. **Automate Everything** — If a task is repetitive, it should be automated. Time is our most valuable resource, and automation is how we reclaim it.
-
-2. **Trust Nothing** — In security and systems engineering, trust must be earned. Every system should be verified, every input validated, and every assumption challenged.
-
-3. **Document Obsessively** — Knowledge shared is knowledge multiplied. Comprehensive documentation ensures that others can learn from, build upon, and improve our work.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📡 Connect & Collaborate
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=About.me&logoColor=white)](https://nerds489fo-o36htdot.manus.space)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nerds489)
-[![Sponsor](https://img.shields.io/badge/Sponsor-ff0040?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Nerds489)
-
-</div>
-
-<br>
-
-### 🤝 **Collaboration Guidelines**
-
-I'm always open to collaboration on projects related to:
-- **Security & Automation** — Offensive security tools, penetration testing frameworks, automation scripts
-- **Developer Tooling** — System management utilities, setup automation, productivity tools
-- **AI & Machine Learning** — Multi-agent systems, AI orchestration, intelligent automation
-
-**How to Reach Me:**
-- 🐛 **Found a bug?** Open an issue in the relevant repository
-- 💡 **Have an idea?** Submit a pull request with your proposed changes
-- 🤝 **Want to collaborate?** Reach out via GitHub or my portfolio website
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/Nerds489/Nerds489/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<div align="center">
-
-### 🎨 **"Code is poetry written in logic"**
+### 🌟 **"Code is poetry written in logic"**
 
 *Building the future, one script at a time*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24&height=120&section=footer&text=AUTOMATE%20EVERYTHING%20%E2%80%A2%20TRUST%20NOTHING%20%E2%80%A2%20DOCUMENT%20OBSESSIVELY&fontSize=14&fontColor=fff&fontAlignY=75)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24&height=100&section=footer" alt="Footer"/>
 
 </div>
