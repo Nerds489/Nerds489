@@ -216,8 +216,7 @@ The Ultimate Linux Suite is a versatile multi-distribution system management pla
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerds489&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&custom_title=Technology+Distribution" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nerds489&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nerds489&theme=github_dark" alt="Profile Details"/>
 
 </div>
 
