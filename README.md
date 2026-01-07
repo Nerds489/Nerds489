@@ -216,7 +216,7 @@ The Ultimate Linux Suite is a versatile multi-distribution system management pla
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerds489&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&custom_title=Technology+Distribution" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerds489&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&custom_title=Technology+Distribution" alt="Top Languages"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nerds489&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
 
 </div>
@@ -353,7 +353,7 @@ I am actively seeking collaboration opportunities with organizations and individ
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Nerds489/Nerds489/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nerds489&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=f97316&point=ff0040&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
