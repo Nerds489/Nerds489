@@ -209,7 +209,7 @@ The Ultimate Linux Suite is a versatile multi-distribution system management pla
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nerds489&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=f97316&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=GitHub+Performance+Metrics" alt="GitHub Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nerds489&theme=github_dark" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nerds489&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff0040&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=f97316&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
 
 </div>
