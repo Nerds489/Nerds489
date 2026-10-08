@@ -1,7 +1,10 @@
-<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3a0ca3,75:7209b7,100:00f5d4&height=240&section=header&text=NERDS489&fontSize=86&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=offensive%20security%20%E2%80%A2%20automation%20%E2%80%A2%20linux&descSize=20&descAlignY=60&descAlign=50" alt="NERDS489" width="100%"/>
-</p>
+<!-- ═══════════════════════════════ HEADER: follows the viewer's light or dark theme ═══════════════════════════════ -->
+<a name="top"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3a0ca3,75:7209b7,100:00f5d4&height=240&section=header&text=NERDS489&fontSize=86&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=offensive%20security%20%E2%80%A2%20automation%20%E2%80%A2%20linux&descSize=20&descAlignY=60&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,45:b5179e,75:7209b7,100:3a0ca3&height=240&section=header&text=NERDS489&fontSize=86&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=offensive%20security%20%E2%80%A2%20automation%20%E2%80%A2%20linux&descSize=20&descAlignY=60&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3a0ca3,75:7209b7,100:00f5d4&height=240&section=header&text=NERDS489&fontSize=86&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=offensive%20security%20%E2%80%A2%20automation%20%E2%80%A2%20linux&descSize=20&descAlignY=60&descAlign=50" alt="NERDS489" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://github.com/Nerds489">
@@ -15,9 +18,20 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING-00f5d4?style=for-the-badge&labelColor=0d1117" alt="status building"/>
 </p>
 
+<p align="center">
+  <a href="#about"><kbd> 👤 about </kbd></a>&nbsp;
+  <a href="#projects"><kbd> ⚔️ projects </kbd></a>&nbsp;
+  <a href="#releases"><kbd> 🚀 releases </kbd></a>&nbsp;
+  <a href="#arsenal"><kbd> 🧰 arsenal </kbd></a>&nbsp;
+  <a href="#stats"><kbd> 📈 stats </kbd></a>&nbsp;
+  <a href="#support"><kbd> 💜 support </kbd></a>&nbsp;
+  <a href="#rules"><kbd> 📜 rules </kbd></a>
+</p>
+
 ---
 
-## `$ cat about.md`
+<a name="about"></a>
+## :bust_in_silhouette: `$ cat about.md`
 
 ```yaml
 handle:      Nerds489
@@ -29,9 +43,13 @@ believes_in: scope gates, audit trails, and fixing it properly the first time
 off_hours:   writing bars when the terminal goes quiet
 ```
 
+> [!NOTE]
+> Everything public here is free to use. The security tooling is built for **authorised testing only**[^scope].
+
 ---
 
-## `$ ls ./projects --featured`
+<a name="projects"></a>
+## :crossed_swords: `$ ls ./projects --featured`
 
 <p align="center">
   <a href="https://github.com/Nerds489/NETREAPER">
@@ -55,8 +73,6 @@ Name a goal and an interface; it works out which tools are needed, puts them in 
 - a full **Textual TUI**
 - Python 3.11+ · Linux · GPL-3.0
 
-<sub>For authorised engagements. Nothing runs outside scope.</sub>
-
 </td>
 <td width="50%" valign="top">
 
@@ -64,20 +80,65 @@ Name a goal and an interface; it works out which tools are needed, puts them in 
 
 Two Windows toolkits merged into one: tweaks, debloat, app installs, hardware profiling, drivers and performance tuning for **Windows 10 and 11**.
 
-- debloat and telemetry off
+- per-feature <ins>undo</ins> and structured backups
 - winget · Chocolatey · Scoop
 - hardware info and drivers
-- PowerShell, no activation tooling
-
-<sub>Fresh install to tuned machine, one script.</sub>
+- PowerShell · MIT · no activation tooling
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>⚔️ NETREAPER, opened up</b></summary>
+<br>
+
+| | |
+|---|---|
+| **What you give it** | a goal and an interface |
+| **What it works out** | which tools the job needs, and the order to run them in |
+| **What stops it** | a scope gate: nothing runs against a target outside the engagement |
+| **What it leaves behind** | a hash-chained audit trail, so the record can't be quietly edited |
+| **How you drive it** | a Textual TUI, or the command line |
+
+> [!TIP]
+> Start with the README's quick start, define your scope, then let it plan the run.
+
+</details>
+
+<details>
+<summary><b>🪟 unified-windows-suite, opened up</b></summary>
+<br>
+
+Neither parent project covered the whole job: one only ever *removed* things, the other could install and tune but had no undo that worked. Merged, they take a machine from first boot to tuned.
+
+| Stage | What happens |
+|---|---|
+| **Strip** | debloat, telemetry off, app removal |
+| **Install** | your apps, through winget, Chocolatey or Scoop |
+| **Profile** | hardware read, drivers matched |
+| **Tune** | performance tweaks, each one undoable |
+
+> [!IMPORTANT]
+> Try before you commit: every tweak path honours `-WhatIf`, and `.\Unified.ps1 scan` is read-only.
+
+</details>
+
 ---
 
-## `$ which --all arsenal`
+<a name="releases"></a>
+## :rocket: `$ git tag --list --sort=-creatordate`
+
+- [x] **NETREAPER v12.2.1**, 1 Oct 2026
+- [x] **NETREAPER v12.0.2**, 22 Sep 2026
+- [x] **NETREAPER v12.0.0**, 22 Sep 2026
+- [x] **unified-windows-suite v4.0.0**, 19 Sep 2026
+- [x] **NETREAPER v11.0.0**, the Python rebuild, 11 Sep 2026
+
+---
+
+<a name="arsenal"></a>
+## :toolbox: `$ which --all arsenal`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,windows,git,github,githubactions,docker,vscode,vim&perline=12&theme=dark" alt="tech stack"/>
@@ -92,7 +153,8 @@ Two Windows toolkits merged into one: tweaks, debloat, app installs, hardware pr
 
 ---
 
-## `$ git log --stat --all`
+<a name="stats"></a>
+## :chart_with_upwards_trend: `$ git log --stat --all`
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nerds489&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=7209b7&text_color=c9d1d9&rank_icon=github" alt="GitHub stats"/>
@@ -109,7 +171,8 @@ Two Windows toolkits merged into one: tweaks, debloat, app installs, hardware pr
 
 ---
 
-## `$ ./support.sh`
+<a name="support"></a>
+## :purple_heart: `$ ./support.sh`
 
 <p align="center">
   <a href="https://github.com/sponsors/Nerds489"><img src="https://img.shields.io/badge/GitHub_Sponsors-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=ea4aaa" alt="GitHub Sponsors"/></a>
@@ -121,7 +184,8 @@ Two Windows toolkits merged into one: tweaks, debloat, app installs, hardware pr
 
 ---
 
-## `$ cat ./rules.txt`
+<a name="rules"></a>
+## :scroll: `$ cat ./rules.txt`
 
 ```text
 01  scope first. nothing runs that wasn't authorised.
@@ -131,15 +195,25 @@ Two Windows toolkits merged into one: tweaks, debloat, app installs, hardware pr
 05  ship it working, or don't ship it.
 ```
 
+> [!WARNING]
+> ~~move fast and break things~~ &nbsp;move deliberately and leave a log.
+
+> [!CAUTION]
+> Pointing offensive tooling at systems you don't own or aren't authorised to test is illegal almost everywhere. Get it in writing first.
+
 ---
 
 <p align="center">
   <a href="https://github.com/Nerds489?tab=repositories"><img src="https://img.shields.io/badge/SEE_ALL_REPOS-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4" alt="repositories"/></a>
-  <a href="https://github.com/Nerds489?tab=stars"><img src="https://img.shields.io/badge/STARRED-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=7209b7" alt="stars"/></a>
+  <a href="#top"><img src="https://img.shields.io/badge/BACK_TO_TOP-0d1117?style=for-the-badge&logo=githubactions&logoColor=7209b7" alt="back to top"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,25:7209b7,55:3a0ca3,100:0d1117&height=130&section=footer" alt="footer" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,25:7209b7,55:3a0ca3,100:0d1117&height=130&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,45:7209b7,100:b5179e&height=130&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,25:7209b7,55:3a0ca3,100:0d1117&height=130&section=footer" alt="footer" width="100%">
+</picture>
 
-<p align="center"><sub>Text on this page © 2026 Nerds489, shared under <a href="LICENSE">CC BY 4.0</a>.</sub></p>
+<p align="center"><sub>Text on this page © 2026 Nerds489, shared under <a href="LICENSE">CC BY 4.0</a>.<sup>v2</sup></sub></p>
+
+[^scope]: Authorised means written permission from whoever owns the system, with the targets and the time window agreed before anything runs. NETREAPER enforces that scope; it can't create the permission for you.
