@@ -109,6 +109,18 @@ Two Windows toolkits merged into one: tweaks, debloat, app installs, hardware pr
 
 ---
 
+## `$ ./support.sh`
+
+<p align="center">
+  <a href="https://github.com/sponsors/Nerds489"><img src="https://img.shields.io/badge/GitHub_Sponsors-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=ea4aaa" alt="GitHub Sponsors"/></a>
+  <a href="https://liberapay.com/Nerds489"><img src="https://img.shields.io/badge/Liberapay-0d1117?style=for-the-badge&logo=liberapay&logoColor=f6c915" alt="Liberapay"/></a>
+  <a href="https://buymeacoffee.com/abbeyandlaf"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffdd00" alt="Buy Me a Coffee"/></a>
+</p>
+
+<p align="center"><sub>Everything here is built in spare hours. If a tool saved you one, that's how to say so.</sub></p>
+
+---
+
 ## `$ cat ./rules.txt`
 
 ```text
